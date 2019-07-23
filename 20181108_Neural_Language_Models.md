@@ -29,4 +29,13 @@
 ## 7. 引用
 
 
+## 8. 论文
 
+- [Character-Level Language Modeling with Hierarchical Recurrent Neural Networks]()
+- [Efficient softmax approximation for GPUs]()
+- [Improving Neural Language Models with a Continuous Cache]()
+- [Language Modeling with Gated Convolutional Networks]()
+- [Slim Embedding Layers for Recurrent Neural Language Models]()
+- [Syllable-level Neural Language Model for Agglutinative Language](https://arxiv.org/abs/1708.05515)
+- [Tensorized Embedding Layers for Efficient Model Compression]()
+- [WEST: Word Encoded Sequence Transducers]()
